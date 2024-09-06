@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb80415e00514efca764a7c7e5922eb8, type: 3}
+  m_Name: BuildingObjectMenuConfig
+  m_EditorClassIdentifier: 
+  buildingObjectConfigs:
+  - {fileID: 11400000, guid: 7fe66d4d60538d14ea2bc5f52abc98e6, type: 2}
+  - {fileID: 11400000, guid: e88f9d6e887d6c04d8acc44e71a80296, type: 2}
+  menuViewPrefab: {fileID: 7809794127831057419, guid: c57764ab243689e4196d2163ceca4f9f, type: 3}
+  objectIconViewPrefab: {fileID: 8415872691099071131, guid: 90f25eef8c4ca154facc869f6c31d76e, type: 3}
